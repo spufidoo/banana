@@ -1,6 +1,10 @@
 
 > Open this page at [https://spufidoo.github.io/banana/](https://spufidoo.github.io/banana/)
 
+https://makecode.microbit.org/projects/banana-keyboard
+https://makecode.microbit.org/projects/banana-keyboard/make
+https://makecode.microbit.org/projects/banana-keyboard/code
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
